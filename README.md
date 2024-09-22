@@ -14,4 +14,4 @@
 - `Iphone.java`: classe Iphone e implementando os métodos de Aparelho Telefonico, Navegador e Reprodutor Musical.
 - `Interfaces (ReprodutorMusical, NavegadorInternet, AparelhoTelefonico)`: interfaces 
 
-![modelagem](iphone-modelagem.png);
+![modelagem](iphone-modelagem.png)
